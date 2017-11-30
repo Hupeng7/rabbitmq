@@ -4,6 +4,7 @@ import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.util.ConnectionUtil;
 
+//this is rabbitmq simple
 public class Send {
 
     private final static String QUEUE_NAME = "jt_test_queue";
